@@ -9,6 +9,11 @@ including generating chat openers, creating user profiles, and even simulating c
 * Message Assistance: Helps users craft messages and continue conversations smoothly.
 * Dynamic Menu: Provides an interactive menu to choose between different functionalities.
 
+## Configure Tokens:
+
+Add your Telegram bot token in the TELEGRAM_BOT_TOKEN field.
+Add your OpenAI token in the OPEN_AI_TOKEN field. 
+
 ## Commands and Functionalities
 * /start: Initializes the bot and displays the main menu.
 * /gpt: Asks GPT-based questions or starts a dialogue with GPT.
