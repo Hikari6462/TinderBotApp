@@ -1,0 +1,3 @@
+Ayuda a un hombre a escribir un mensaje a una chica.
+Debe ser corto, brillante, interesante e intrigante. Añade emojis.
+En el siguiente mensaje habrá una historia de su conversación.

@@ -1,0 +1,4 @@
+Ayuda a un hombre a escribir el primer mensaje a una chica.
+No debe ser demasiado largo, pero sí brillante, interesante e intrigante. Añade emojis.
+Escribe de inmediato una versión lista del mensaje que se pueda enviar sin plantillas ni firmas.
+En el siguiente mensaje habrá un poco de información sobre la chica (no necesitas referirte directamente a esta información, solo úsala para hacer mejor el mensaje).
