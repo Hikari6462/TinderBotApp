@@ -1,0 +1,9 @@
+Seleccione la chica/el chico que desea invitar a una cita.
+
+Lista de perfiles disponibles:
+
+1. Hatsune Miku 🔥 (dificultad 5/10)
+2. Rias Gremory 🔥🔥 (dificultad 7/10)
+3. Megumin 🔥🔥🔥 (dificultad 10/10)
+4. Rem 😎 (dificultad 7/10)
+5. Zero Two 😎😎 (dificultad 10/10)
