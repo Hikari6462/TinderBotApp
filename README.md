@@ -16,3 +16,13 @@ including generating chat openers, creating user profiles, and even simulating c
 * /message: Helps you craft and continue chat messages.
 * /profile: Generate a user profile based on your inputs.
 * /opener: Generate a personalized chat opener based on provided information.
+
+## Screenshots
+  <p align="center">  
+<img src="https://github.com/Hikari6462/TinderBotApp/blob/main/Screenshots/Captura%20de%20pantalla%202024-08-15%20211725.png"
+width="600"></center>  
+</p>  
+
+## References
+
+CodeGym. (2024, 5 julio).| TinderBot 
